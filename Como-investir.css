@@ -1,0 +1,153 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 728px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 3.75rem;
+  margin: 65px 516px 0 54px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 265px;
+  background-image: linear-gradient(#ff000b, #f1c50e);
+  width: 459px;
+  margin: -132px 0 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 0 11px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  font-size: 6rem;
+  margin: 22px 11px 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  margin: 10px 11px 0;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 1.25rem;
+  margin: -111px 513px 0 54px;
+}
+
+.u-section-1 .u-list-1 {
+  width: 459px;
+  margin: 79px 0 60px auto;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: 100%;
+  min-height: 283px;
+  grid-gap: 40px 40px;
+}
+
+.u-section-1 .u-list-item-1 {
+  background-image: linear-gradient(#f1c50e, #74f97d);
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.1);
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0 0 30px;
+}
+
+.u-section-1 .u-text-6 {
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: center;
+  padding: 10px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  background-image: none;
+  text-transform: none;
+  letter-spacing: normal;
+  margin: 30px auto 0;
+  padding: 19px 41px 20px 40px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 370px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 367px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 150px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 147px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 102px;
+    margin-left: 119px;
+  }
+}

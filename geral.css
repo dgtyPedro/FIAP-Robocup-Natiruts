@@ -13285,7 +13285,7 @@ section.u-image:not(.u-hover-box),
 .u-svg-link {
   width: 100%;
   height: 100%;
-  fill: currentColor;
+  fill: white!important;
 }
 .u-svg-content {
   width: 0;
